@@ -30,8 +30,4 @@
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlxstriuk&show_icons=true&locale=en&layout=compact" alt="dlxstriuk" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlxstriuk&show_icons=true&locale=en" alt="dlxstriuk" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dlxstriuk&" alt="dlxstriuk" /></p>
