@@ -20,9 +20,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,html,css,js,git,vscode" />
-  </a>
+  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=c" /></a>
+  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=cs" /></a>
+  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=html" /></a>
+  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=css" /></a>
+  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=js" /></a>
+  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=git" /></a>
+  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dlxstriuk&show_icons=true&locale=en&layout=compact" alt="dlxstriuk" /></p>
