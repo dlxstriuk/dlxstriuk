@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=c" /></a>
-  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=cs" /></a>
+  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=cpp" /></a>
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=js" /></a>
