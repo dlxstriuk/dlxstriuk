@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Danylo Striuk**
 
-- 👯 I’m looking to collaborate on **Danylo Striuk**
+- 🌱 I’m currently learning **Frontend and Backend**
 
-- 🤝 I’m looking for help with **Danylo Striuk**
+- 💬 Ask me about **HTML, CSS, JS**
 
 - 📫 How to reach me **dlxstriuk@gmail.com**
 
