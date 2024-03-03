@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Danylo Striuk</h1>
 <h3 align="center">Beginner front-end developer from Ukraine🇺🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dlxstriuk&label=Profile%20views&color=0e75b6&style=flat" alt="dlxstriuk" /> </p>
-
 - 🔭 I’m currently working on **Danylo Striuk**
 
 - 👯 I’m looking to collaborate on **Danylo Striuk**
@@ -16,6 +14,8 @@
   <a href="" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
