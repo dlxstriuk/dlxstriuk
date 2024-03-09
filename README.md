@@ -26,7 +26,6 @@
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=html" /></a>
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=js" /></a>
-  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=nodejs" /></a>
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=git" /></a>
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
