@@ -13,11 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://github.com/dlxstriuk" target="blank"><img src="https://skillicons.dev/icons?i=github" /></a>
-  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=notion" /></a>
-  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=discord" /></a>
-  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+  <a href="" target="blank"><img src="https://skillicons.dev/icons?i=leetcode" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
