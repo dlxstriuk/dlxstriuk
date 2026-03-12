@@ -26,7 +26,6 @@
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=css" /></a>
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=js" /></a>
   <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=git" /></a>
-  <a href="https://skillicons.dev" target="blank"><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dlxstriuk&show_icons=true&locale=en&theme=dark" alt="dlxstriuk" /></p>
